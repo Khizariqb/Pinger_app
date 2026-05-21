@@ -1,0 +1,112 @@
+2026-05-20 19:20:33 - INFO - Pinger started
+2026-05-20 19:20:33 - INFO - Checking database...
+2026-05-20 19:20:33 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:20:33 - INFO - Waiting 5 minutes
+2026-05-20 19:24:37 - INFO - Pinger started
+2026-05-20 19:24:37 - INFO - Checking database...
+2026-05-20 19:24:37 - ERROR - Cannot connect to database
+2026-05-20 19:24:37 - INFO - Waiting 5 minutes
+2026-05-20 19:32:29 - INFO - Pinger started
+2026-05-20 19:32:29 - INFO - Checking database...
+2026-05-20 19:32:29 - ERROR - Cannot connect to database
+2026-05-20 19:32:29 - INFO - Waiting 0.0 minutes
+2026-05-20 19:32:39 - INFO - Checking database...
+2026-05-20 19:32:39 - ERROR - Cannot connect to database
+2026-05-20 19:32:39 - INFO - Waiting 0.0 minutes
+2026-05-20 19:32:49 - INFO - Checking database...
+2026-05-20 19:32:49 - ERROR - Cannot connect to database
+2026-05-20 19:32:49 - INFO - Waiting 0.0 minutes
+2026-05-20 19:32:59 - INFO - Checking database...
+2026-05-20 19:33:00 - ERROR - Cannot connect to database
+2026-05-20 19:33:00 - INFO - Waiting 0.0 minutes
+2026-05-20 19:33:10 - INFO - Checking database...
+2026-05-20 19:33:10 - ERROR - Cannot connect to database
+2026-05-20 19:33:10 - INFO - Waiting 0.0 minutes
+2026-05-20 19:33:20 - INFO - Checking database...
+2026-05-20 19:33:20 - ERROR - Cannot connect to database
+2026-05-20 19:33:20 - INFO - Waiting 0.0 minutes
+2026-05-20 19:33:25 - INFO - Pinger started
+2026-05-20 19:33:25 - INFO - Checking database...
+2026-05-20 19:33:25 - ERROR - Cannot connect to database
+2026-05-20 19:33:25 - INFO - Waiting 0.0 minutes
+2026-05-20 19:33:35 - INFO - Checking database...
+2026-05-20 19:33:35 - ERROR - Cannot connect to database
+2026-05-20 19:33:35 - INFO - Waiting 0.0 minutes
+2026-05-20 19:34:12 - INFO - Pinger started
+2026-05-20 19:34:12 - INFO - Checking database...
+2026-05-20 19:34:12 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:34:12 - INFO - Waiting 0.0 minutes
+2026-05-20 19:34:22 - INFO - Checking database...
+2026-05-20 19:34:22 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:34:22 - INFO - Waiting 0.0 minutes
+2026-05-20 19:34:32 - INFO - Checking database...
+2026-05-20 19:34:32 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:34:32 - INFO - Waiting 0.0 minutes
+2026-05-20 19:34:42 - INFO - Checking database...
+2026-05-20 19:34:42 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:34:42 - INFO - Waiting 0.0 minutes
+2026-05-20 19:34:52 - INFO - Checking database...
+2026-05-20 19:34:52 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:34:52 - INFO - Waiting 0.0 minutes
+2026-05-20 19:35:02 - INFO - Checking database...
+2026-05-20 19:35:02 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:35:02 - INFO - Waiting 0.0 minutes
+2026-05-20 19:35:12 - INFO - Pinger started
+2026-05-20 19:35:12 - INFO - Checking database...
+2026-05-20 19:35:12 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:35:12 - INFO - Waiting 0.0 minutes
+2026-05-20 19:35:22 - INFO - Checking database...
+2026-05-20 19:35:22 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:35:22 - INFO - Waiting 0.0 minutes
+2026-05-20 19:35:32 - INFO - Checking database...
+2026-05-20 19:35:32 - INFO - Success - PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35225, 64-bit
+2026-05-20 19:35:32 - INFO - Waiting 0.0 minutes
+2026-05-20 19:35:41 - INFO - Pinger started
+2026-05-20 19:35:41 - INFO - Checking database...
+2026-05-20 19:35:41 - ERROR - Cannot connect to database
+2026-05-20 19:35:41 - INFO - Waiting 0.0 minutes
+2026-05-21 00:16:35 - Pinger Started
+2026-05-21 00:16:35 - ERROR - connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "admin"
+
+2026-05-21 00:17:46 - Pinger Started
+2026-05-21 00:17:46 - SUCCESS - Connected to database
+2026-05-21 00:21:46 - Pinger Started
+2026-05-21 00:21:46 - SUCCESS - Connected to database
+2026-05-21 00:24:06 - Pinger Started
+2026-05-21 00:24:06 - SUCCESS - Connected to database
+2026-05-21 00:37:17 - Pinger Started
+2026-05-21 00:37:17 - SUCCESS - Connected to database
+2026-05-21 12:14:10 - Pinger Started
+2026-05-21 12:14:10 - SUCCESS - Connected to database
+2026-05-21 12:18:12 - Pinger Started
+2026-05-21 12:18:12 - SUCCESS - Connected to database
+2026-05-21 12:20:34 - Pinger Started
+2026-05-21 12:20:34 - SUCCESS - Connected to database
+2026-05-21 12:36:33 - Pinger Started
+2026-05-21 12:36:33 - SUCCESS - Connected to database
+2026-05-21 12:50:55 - Pinger Started
+2026-05-21 12:50:55 - SUCCESS - Connected to database
+2026-05-21 13:10:37 - Pinger Started
+2026-05-21 13:10:39 - ERROR - could not translate host name "postgres" to address: Name or service not known
+
+2026-05-21 13:11:04 - Pinger Started
+2026-05-21 13:11:04 - SUCCESS - Connected to database
+2026-05-21 13:21:44 - Pinger Started
+2026-05-21 13:21:46 - ERROR - could not translate host name "postgres" to address: Name or service not known
+
+2026-05-21 13:22:07 - Pinger Started
+2026-05-21 13:22:08 - SUCCESS - Connected to database
+2026-05-21 13:22:21 - Pinger Started
+2026-05-21 13:22:21 - ERROR - connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "admin"
+
+2026-05-21 13:31:59 - Pinger Started
+2026-05-21 13:31:59 - ERROR - connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "admin"
+
+2026-05-21 13:32:25 - Pinger Started
+2026-05-21 13:32:25 - SUCCESS - Connected to database
+2026-05-21 13:32:52 - Pinger Started
+2026-05-21 13:32:52 - SUCCESS - Connected to database
+2026-05-21 13:40:06 - Pinger Started
+2026-05-21 13:40:06 - SUCCESS - Connected to database
+2026-05-21 13:46:25 - Pinger Started
+2026-05-21 13:46:25 - SUCCESS - Connected to database
